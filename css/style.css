@@ -1,0 +1,14 @@
+.vidcont{
+    position: absolute;
+}
+
+.container{
+    margin: 50px auto;
+    width: 1260px;
+    position: relative;
+}
+
+h1{
+    margin: 50px auto;
+    width: 700px;
+}
